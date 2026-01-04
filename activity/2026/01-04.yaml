@@ -1,0 +1,10 @@
+period:
+  start: 2026-01-01
+  end: 2026-01-04
+
+activities:
+  - 2026年目標設定
+  - LPIC資格取得に向けた学習
+  - Rustの学習
+
+total_hours: 5.5
