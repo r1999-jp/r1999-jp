@@ -1,0 +1,18 @@
+period:
+  start: 2026-01-05
+  end: 2026-01-11
+
+activities:
+  - ブログ記事の作成
+  - XアカウントIDの修正
+  - Rustの学習
+  - LPICの学習
+
+articles:
+  - title: "【openssl・urandom】Linuxコマンドでランダムパスワードを生成する方法｜AlmaLinux10対応"
+    link: "https://r1999.com/posts/linux-generate-random-password/"
+  - title: "【2025年】活動まとめ"
+    link: "https://r1999.com/activity/activity-2025/"
+
+total_hours: 3
+
