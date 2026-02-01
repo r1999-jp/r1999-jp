@@ -1,0 +1,15 @@
+period:
+  start: 2026-01-19
+  end: 2026-01-25
+
+activities:
+  - ブログ記事の作成
+  - LPIC資格取得に向けた学習
+
+articles:
+  - title: "AlmaLinux 10でLet’s EncryptのSSL証明書を取得する方法｜Certbot＋Apache"
+    link: "https://r1999.com/posts/almalinux10-certbot-lets-encrypt/"
+  - title: "【初心者向け】AlmaLinux 10 に Bun をインストールする方法｜導入から基本操作まで"
+    link: "https://r1999.com/posts/bun-install-almalinux10/"
+
+total_hours: 4
