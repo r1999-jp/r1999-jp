@@ -1,0 +1,13 @@
+period:
+  start: 2026-01-26
+  end: 2026-02-01
+
+activities:
+  - ブログ記事の作成
+  - LPIC資格取得に向けた学習
+
+articles:
+  - title: "【初心者向け】AlmaLinuxでEPELリポジトリを有効化する方法"
+    link: "https://r1999.com/posts/almalinux-epel-enable/"
+
+total_hours: 2
