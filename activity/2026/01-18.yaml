@@ -1,0 +1,12 @@
+period:
+  start: 2026-01-12
+  end: 2026-01-18
+
+activities:
+  - ブログ記事の作成
+
+articles:
+  - title: "【AlmaLinux 10】ImageMagick 7 インストールと使い方｜magickコマンドでのリサイズ・WebP一括変換まで解説"
+    link: "https://r1999.com/posts/almalinux10-imagemagick7-install/"
+
+total_hours: 1
