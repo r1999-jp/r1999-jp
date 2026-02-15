@@ -1,0 +1,14 @@
+period:
+  start: 2026-02-09
+  end: 2026-02-15
+
+activities:
+  - ブログ記事の作成
+  - goバージョン取得ロジックの修正
+  - LPIC資格取得に向けた学習
+
+articles:
+  - title: "grepでバイナリファイルを除外する方法｜-Iオプションの使い方"
+    link: "https://r1999.com/posts/grep-exclude-binary-files/"
+
+total_hours: 5
